@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Natitanic/static/css/main.7efa7a61.css",
+    "main.js": "/Natitanic/static/js/main.43554d34.js",
+    "static/js/787.e5487c9f.chunk.js": "/Natitanic/static/js/787.e5487c9f.chunk.js",
+    "static/media/Ellipse 1.png": "/Natitanic/static/media/Ellipse 1.249cbe5adfd684c007fa.png",
+    "static/media/Ellips.png": "/Natitanic/static/media/Ellips.ece02e1ea11e68a8e26b.png",
+    "static/media/second.png": "/Natitanic/static/media/second.2c1ed3464a3167592f26.png",
+    "static/media/image 4.png": "/Natitanic/static/media/image 4.0e25455e5b5985cd1cc4.png",
+    "static/media/Gleb.png": "/Natitanic/static/media/Gleb.28429c676ca5f953fd50.png",
+    "static/media/image 6.png": "/Natitanic/static/media/image 6.9c433ea5afda8ba68cf2.png",
+    "static/media/first.png": "/Natitanic/static/media/first.ec07abac58ac379a7e0a.png",
+    "static/media/third.png": "/Natitanic/static/media/third.bd9ba664cbb5b4cddd69.png",
+    "static/media/NEXT ART_Regular.svg": "/Natitanic/static/media/NEXT ART_Regular.03e3e91531fe3999b7e5.svg",
+    "static/media/NEXT ART_Bold.svg": "/Natitanic/static/media/NEXT ART_Bold.b2bf4013b59db90ec254.svg",
+    "static/media/ArodoraPro-Light.eot": "/Natitanic/static/media/ArodoraPro-Light.64a4e23058777d89cecd.eot",
+    "static/media/ArodoraPro-Light.ttf": "/Natitanic/static/media/ArodoraPro-Light.ddabcce5392802dca812.ttf",
+    "static/media/ArodoraPro-Light.svg": "/Natitanic/static/media/ArodoraPro-Light.93750f5f4f0e4ed890b1.svg",
+    "static/media/image 5.png": "/Natitanic/static/media/image 5.fd66951769044a4d99cc.png",
+    "static/media/NEXT ART_Regular.woff": "/Natitanic/static/media/NEXT ART_Regular.e887d529eb91f986f994.woff",
+    "static/media/NEXT ART_Bold.woff": "/Natitanic/static/media/NEXT ART_Bold.b7bcef96f39ec59e914e.woff",
+    "static/media/NEXT ART_Bold.eot": "/Natitanic/static/media/NEXT ART_Bold.186b9aa28565a5953a24.eot",
+    "static/media/NEXT ART_Bold.ttf": "/Natitanic/static/media/NEXT ART_Bold.e472f478cdaf47b79860.ttf",
+    "static/media/ArodoraPro-Light.woff": "/Natitanic/static/media/ArodoraPro-Light.cb09e3679bf2e1bb04a2.woff",
+    "static/media/NEXT ART_Regular.eot": "/Natitanic/static/media/NEXT ART_Regular.ba26eaad24e94073e77d.eot",
+    "static/media/NEXT ART_Regular.ttf": "/Natitanic/static/media/NEXT ART_Regular.1471a8e23d421a900f54.ttf",
+    "index.html": "/Natitanic/index.html",
+    "main.7efa7a61.css.map": "/Natitanic/static/css/main.7efa7a61.css.map",
+    "main.43554d34.js.map": "/Natitanic/static/js/main.43554d34.js.map",
+    "787.e5487c9f.chunk.js.map": "/Natitanic/static/js/787.e5487c9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7efa7a61.css",
+    "static/js/main.43554d34.js"
+  ]
+}
